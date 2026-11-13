@@ -1,6 +1,10 @@
 # Pràctica final de tema 
 Durant aquesta pràctica, treballarem en quatre fases, per poder-ne organitzar un viatge, utilitzen **les eines de Google.**  
 
+<img width="500" height="418" alt="imatge" src="https://github.com/user-attachments/assets/5bfb5e56-d353-4e03-91bb-0043b48554d7" />
+
+*Imatge 1. Text Educació. (2019). Fem-ho per projectes [Illustration]. Blog de Text.*
+
 # Competències adquirides en aquesta pràctica 
 
 En finalitzar aquesta pràctica, tindrem assolides les següents competències. 
