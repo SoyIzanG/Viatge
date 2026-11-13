@@ -1,4 +1,4 @@
-# Projecte final de tema 
+# Pràctica final de tema 
 Durant aquesta pràctica, treballarem en quatre fases, per poder-ne organitzar un viatge, utilitzen principalment les eines de Google.  
 
 # Competències adquirides en aquesta pràctica 
