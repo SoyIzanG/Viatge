@@ -56,3 +56,23 @@ En aquesta fase, ens encarreguem d'investigar les sis eines de Google.
 
 **Propòsit:** Permet fer videotrucades i videoconferències en línia de manera senzilla i amb opcions de compartir pantalla.
 **Target:** Empreses, centres educatius i grups que requereixen comunicació remota.
+
+**Google Analytics**
+*Permet analitzar el comportament dels usuaris a un lloc web en específic.* 
+
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/93e53a4f-ef5f-451a-95b5-de88163d043e" />
+
+*Imatge 7. Google LLC. (s. f.). Logotipo de Google Analytics [Imagen].*
+
+**Propòsit:** Analitza i mesura el trànsit, les mètriques d'ús i el comportament dels visitants en un lloc web o aplicació.
+**Target:** Dissenyadors web, gestors de continguts, especialistes en màrqueting digital i negocis online.
+
+**Google Ads**
+*Permet pujar anuncis a la plataforma de Google, eina no gratuïta.*
+
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/cbb32da1-89e7-4d7f-8f7d-beb42fc12ef8" />
+
+*Imatge 8. Google LLC. (s. f.). Logotipo de Google Ads [Imagen].*
+
+**Propòsit:** Plataforma per crear i gestionar campanyes de publicitat de pagament que apareixen als resultats de cerca i a la xarxa de Google.
+**Target:** Negocis, marques i comerciants que volen atraure clients potencials i augmentar les seves vendes.
