@@ -34,7 +34,7 @@ En aquesta fase, ens encarreguem d'investigar les sis eines de Google.
 
 *Imatge 4. Google LLC. (s. f.). Logotipo de Google Drive [Imagen].*
 
-**Propòsit:** Ofereix emmagatzematge al núvol per guardar, organitzar i compartir arxius i carpetes de qualsevol mena.
+**Propòsit:** Ofereix emmagatzematge al núvol per guardar, organitzar i compartir arxius i carpetes de qualsevol mena. 
 **Target:** Usuaris particulars i empreses que volen mantenir els seus fitxers segurs i accessibles des de qualsevol dispositiu.
 
 **Google Calendar**
@@ -44,8 +44,7 @@ En aquesta fase, ens encarreguem d'investigar les sis eines de Google.
 
 *Imatge 5. Google LLC. (s. f.). Logotipo de Google Calendar [Imagen].*
 
-**Propòsit:** Serveix per planificar l'agenda, programar esdeveniments, crear recordatoris i convidar altres persones a reunions.
-
+**Propòsit:** Serveix per planificar l'agenda, programar esdeveniments, crear recordatoris i convidar altres persones a reunions. 
 **Target:** Qualsevol persona o equip que necessiti gestionar el seu temps i organitzar la seva jornada diària.
 
 **Google Meet**
@@ -55,8 +54,7 @@ En aquesta fase, ens encarreguem d'investigar les sis eines de Google.
 
 *Imatge 6. Google LLC. (s. f.). Logotipo de Google Meet [Imagen].*
 
-**Propòsit:** Permet fer videotrucades i videoconferències en línia de manera senzilla i amb opcions de compartir pantalla.
-
+**Propòsit:** Permet fer videotrucades i videoconferències en línia de manera senzilla i amb opcions de compartir pantalla. 
 **Target:** Empreses, centres educatius i grups que requereixen comunicació remota.
 
 **Google Analytics**
@@ -66,8 +64,7 @@ En aquesta fase, ens encarreguem d'investigar les sis eines de Google.
 
 *Imatge 7. Google LLC. (s. f.). Logotipo de Google Analytics [Imagen].*
 
-**Propòsit:** Analitza i mesura el trànsit, les mètriques d'ús i el comportament dels visitants en un lloc web o aplicació.
-
+**Propòsit:** Analitza i mesura el trànsit, les mètriques d'ús i el comportament dels visitants en un lloc web o aplicació. 
 **Target:** Dissenyadors web, gestors de continguts, especialistes en màrqueting digital i negocis online.
 
 **Google Ads**
@@ -77,6 +74,5 @@ En aquesta fase, ens encarreguem d'investigar les sis eines de Google.
 
 *Imatge 8. Google LLC. (s. f.). Logotipo de Google Ads [Imagen].*
 
-**Propòsit:** Plataforma per crear i gestionar campanyes de publicitat de pagament que apareixen als resultats de cerca i a la xarxa de Google.
-
+**Propòsit:** Plataforma per crear i gestionar campanyes de publicitat de pagament que apareixen als resultats de cerca i a la xarxa de Google. 
 **Target:** Negocis, marques i comerciants que volen atraure clients potencials i augmentar les seves vendes.
