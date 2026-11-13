@@ -13,7 +13,7 @@ En finalitzar aquesta pràctica, tindrem assolides les següents competències.
 
 *Imatge 2. Elaboración propia (Izan Gómez, 13 de noviembre de 2026).*
 
-# El correu
+# Eines de Google
 
 En aquesta fase, ens encarreguem d'investigar les sis eines de Google.  
 
