@@ -9,7 +9,7 @@ Durant aquesta pràctica, treballarem en quatre fases, per poder-ne organitzar u
 
 En finalitzar aquesta pràctica, tindrem assolides les següents competències. 
 
-<img width="717" height="287" alt="imatge" src="https://github.com/user-attachments/assets/023134d7-3500-4d6b-9b55-a2627aeab5a1" />
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/023134d7-3500-4d6b-9b55-a2627aeab5a1" />
 
 *Imatge 2. Elaboración propia (Izan Gómez, 13 de noviembre de 2026).*
 
@@ -30,7 +30,7 @@ En aquesta fase, ens encarreguem d'investigar les sis eines de Google.
 **Google Drive**
 *Emmagatzematge gratuït amb un límit, en l'opció de pagar per tenir més emmagatzematge al núvol.*
 
-<img width="1600" height="442" alt="imatge" src="https://github.com/user-attachments/assets/406d5b59-e2b8-4ed4-b6eb-7ffcad45aaa9" />
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/406d5b59-e2b8-4ed4-b6eb-7ffcad45aaa9" />
 
 *Imatge 4. Google LLC. (s. f.). Logotipo de Google Drive [Imagen].*
 
@@ -40,7 +40,7 @@ En aquesta fase, ens encarreguem d'investigar les sis eines de Google.
 **Google Calendar**
 *Calendari personal, el qual et permet gestionar qualsevol esdeveniment.* 
 
-<img width="3840" height="2160" alt="imatge" src="https://github.com/user-attachments/assets/31fc83d3-a0a6-49ba-b8ac-cb0f172d0219" />
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/31fc83d3-a0a6-49ba-b8ac-cb0f172d0219" />
 
 *Imatge 5. Google LLC. (s. f.). Logotipo de Google Calendar [Imagen].*
 
@@ -50,7 +50,7 @@ En aquesta fase, ens encarreguem d'investigar les sis eines de Google.
 **Google Meet**
 *Aplicació per poder-ne fer videotrucades en qualsevol persona.*
 
-<img width="500" height="501" alt="imatge" src="https://github.com/user-attachments/assets/184a047d-e9a0-4de5-a7cc-647171933da7" />
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/184a047d-e9a0-4de5-a7cc-647171933da7" />
 
 *Imatge 6. Google LLC. (s. f.). Logotipo de Google Meet [Imagen].*
 
