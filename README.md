@@ -36,3 +36,23 @@ En aquesta fase, ens encarreguem d'investigar les sis eines de Google.
 
 **Propòsit:** Ofereix emmagatzematge al núvol per guardar, organitzar i compartir arxius i carpetes de qualsevol mena.
 **Target:** Usuaris particulars i empreses que volen mantenir els seus fitxers segurs i accessibles des de qualsevol dispositiu.
+
+**Google Calendar**
+*Calendari personal, el qual et permet gestionar qualsevol esdeveniment.* 
+
+<img width="3840" height="2160" alt="imatge" src="https://github.com/user-attachments/assets/31fc83d3-a0a6-49ba-b8ac-cb0f172d0219" />
+
+*Imatge 5. Google LLC. (s. f.). Logotipo de Google Calendar [Imagen].*
+
+**Propòsit:** Serveix per planificar l'agenda, programar esdeveniments, crear recordatoris i convidar altres persones a reunions.
+**Target:** Qualsevol persona o equip que necessiti gestionar el seu temps i organitzar la seva jornada diària.
+
+**Google Meet**
+*Aplicació per poder-ne fer videotrucades en qualsevol persona.*
+
+<img width="500" height="501" alt="imatge" src="https://github.com/user-attachments/assets/184a047d-e9a0-4de5-a7cc-647171933da7" />
+
+*Imatge 6. Google LLC. (s. f.). Logotipo de Google Meet [Imagen].*
+
+**Propòsit:** Permet fer videotrucades i videoconferències en línia de manera senzilla i amb opcions de compartir pantalla.
+**Target:** Empreses, centres educatius i grups que requereixen comunicació remota.
