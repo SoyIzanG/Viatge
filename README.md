@@ -76,3 +76,12 @@ En aquesta fase, ens encarreguem d'investigar les sis eines de Google.
 
 **Propòsit:** Plataforma per crear i gestionar campanyes de publicitat de pagament que apareixen als resultats de cerca i a la xarxa de Google. <br>
 **Target:** Negocis, marques i comerciants que volen atraure clients potencials i augmentar les seves vendes.
+
+# Diferència entre IMAP i POP3
+El IMAP és el 99% dels casos actuals, els correus es queden descarregats i guardats en el servidor, com a usuari nosaltres els consultem. És ideal en diversos dispositius a la vegada. En canvi, POP3, descarrega directament al teu ordinador, i la borra del servidor. <br>
+
+La diferència és que un utilitza el servidor i l'altre el teu dispositiu. És millor l'IMAP. 
+
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/fa9c595a-dde6-4f19-82eb-ae1b025f0d3b" />
+
+*Imatge 9. Contabo. (2024, 17 de septiembre). IMAP vs POP3 [Imagen]. Contabo Blog.*
