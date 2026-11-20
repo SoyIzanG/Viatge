@@ -179,9 +179,9 @@ A continuació, adjunto una captura de pantalla de la configuració.
 
 Les dades tècniques trobades es poden visualitzar a la taula següent.  
 
-| Servei | Servidor | Port | Seguretat |
-| IMAP | imap.gmail.com | 993 | SSL/TLS |
-| POP3 | pop.gmail.com | 995 | SSL/TLS |
-| SMTP | smtp.gmail.com | 587 | STARTTLS |
+| Servei | Servidor | Port | Seguretat |<br>
+| IMAP | imap.gmail.com | 993 | SSL/TLS |<br>
+| POP3 | pop.gmail.com | 995 | SSL/TLS |<br>
+| SMTP | smtp.gmail.com | 587 | STARTTLS |<br>
 
 *Informació treta de l'usuari de GitHub Rusben*
