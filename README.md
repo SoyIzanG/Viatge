@@ -127,3 +127,10 @@ Ara des d'un altre compte, enviaré un correu per verificar que tot estigui corr
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/0a355e22-3ab0-444a-a3f4-a3a76fd23754" />
 
 *Imatge 16. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+
+Després d'un segons, he ras aquest correu electrònic del meu compte. 
+
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/988745cf-546c-4d7a-8740-31236010d29b" />
+
+*Imatge 17. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+
