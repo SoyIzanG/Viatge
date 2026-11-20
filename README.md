@@ -179,7 +179,7 @@ A continuació, adjunto una captura de pantalla de la configuració.
 
 Les dades tècniques trobades es poden visualitzar a la taula següent.  
 
-| Servei | Servidor | Port | Seguretat |<br>
+| **Servei** | **Servidor** | **Port** | **Seguretat** |<br>
 | IMAP | imap.gmail.com | 993 | SSL/TLS |<br>
 | POP3 | pop.gmail.com | 995 | SSL/TLS |<br>
 | SMTP | smtp.gmail.com | 587 | STARTTLS |<br>
