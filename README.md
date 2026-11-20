@@ -95,7 +95,7 @@ Per continuar, hauré de crear una etiqueta, amb el nom d'institut.
 
 # Crear els filtres
 
-<img width="1280" height="800" alt="imatge" src="https://github.com/user-attachments/assets/e8f79bb1-7619-429f-9a9a-dcb638c8faf9" />
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/e8f79bb1-7619-429f-9a9a-dcb638c8faf9" />
 
 *Imatge 11. Leofree. (2025). Add multiple senders to Gmail filter in 1-Click. Chrome Web Store.*
 
