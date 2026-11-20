@@ -185,4 +185,4 @@ Les dades tècniques trobades es poden visualitzar a la taula següent.
 | POP3 | pop.gmail.com | 995 | SSL/TLS |
 | SMTP | smtp.gmail.com | 587 | STARTTLS |
 
-*Informació treta de l'usuari de GitHub Rusben*
+*Font: Rubén Arroyo. Guia G5.2 – Gmail, IMAP i comprovacions.*
