@@ -118,7 +118,7 @@ Ara posaré a dos professors com a important.
 # Activar la resposta automàtica
 Ara vull activar la resposta automàtica per no haver d'escriure jo manualment que estil de vacances. He de gaudir al màxim de les vacances. 
 
-<img width="1920" height="1080" alt="imatge" src="https://github.com/user-attachments/assets/7a3ff3b0-9208-42d9-bef0-842ec3fc4c88" />
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/7a3ff3b0-9208-42d9-bef0-842ec3fc4c88" />
 
 *Imatge 15. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
 
