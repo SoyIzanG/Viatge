@@ -121,6 +121,12 @@ M'he enviat un missatge de prova, per confirmar-ho que funciona. En aquest cas, 
 
 *Imatge 15. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
 
+Ara si envio un correu amb la paraula "publicitat", directament s'arxiva i es canvia de categoria. 
+
+<img width="1920" height="1080" alt="imatge" src="https://github.com/user-attachments/assets/2209eec9-8ef8-41c0-bd2c-bee26e3c9eee" />
+
+*Imatge 16. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+
 # Activar la resposta automàtica
 Ara vull activar la resposta automàtica per no haver d'escriure jo manualment que estil de vacances. He de gaudir al màxim de les vacances. 
 
