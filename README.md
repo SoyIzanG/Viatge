@@ -123,26 +123,44 @@ M'he enviat un missatge de prova, per confirmar-ho que funciona. En aquest cas, 
 
 Ara si envio un correu amb la paraula "publicitat", directament s'arxiva i es canvia de categoria. 
 
-<img width="1920" height="1080" alt="imatge" src="https://github.com/user-attachments/assets/2209eec9-8ef8-41c0-bd2c-bee26e3c9eee" />
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/2209eec9-8ef8-41c0-bd2c-bee26e3c9eee" />
 
 *Imatge 16. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+
+Ara activaré tres filtres més, per tindre una millor organització. 
+
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/2ae67ae6-7db1-44cf-947c-57b74087871e" />
+
+*Imatge 17. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/76fa573f-9d1b-44e3-a98a-8020727a2423" />
+
+*Imatge 18. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/865b28c9-e775-4c82-b499-6fc64bfefd48" />
+
+*Imatge 19. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/7b9e96a1-557a-482e-8535-a8416f4e1ce9" />
+
+*Imatge 20. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
 
 # Activar la resposta automàtica
 Ara vull activar la resposta automàtica per no haver d'escriure jo manualment que estil de vacances. He de gaudir al màxim de les vacances. 
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/7a3ff3b0-9208-42d9-bef0-842ec3fc4c88" />
 
-*Imatge 17. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+*Imatge 21. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
 
 Ara des d'un altre compte, enviaré un correu per verificar que tot estigui correcte.  
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/0a355e22-3ab0-444a-a3f4-a3a76fd23754" />
 
-*Imatge 18. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+*Imatge 22. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
 
 Després d'un segons, he rebut aquest correu electrònic del meu compte. 
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/988745cf-546c-4d7a-8740-31236010d29b" />
 
-*Imatge 19. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+*Imatge 23. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
 
