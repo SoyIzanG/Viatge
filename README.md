@@ -1,4 +1,3 @@
-<img width="893" height="317" alt="imatge" src="https://github.com/user-attachments/assets/11906c79-5691-4a18-a0e4-23d5124cd216" /># Pràctica final de tema 
 Durant aquesta pràctica, treballarem en quatre fases, per poder-ne organitzar un viatge, utilitzen **les eines de Google.**  
 
 <img width="500" height="418" alt="imatge" src="https://github.com/user-attachments/assets/5bfb5e56-d353-4e03-91bb-0043b48554d7" />
