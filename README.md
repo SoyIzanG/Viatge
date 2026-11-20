@@ -95,13 +95,13 @@ Per continuar, hauré de crear una etiqueta, amb el nom d'institut.
 
 # Crear els filtres
 
-Després d'haver creat l'etiqueta, hauré de crear cinc filtres. Els quals adjunto a la següent foto. 
+Després d'haver creat l'etiqueta, hauré de crear els filtres. Els quals adjunto a les següents fotos. 
 
-<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/deaf7beb-d6fb-4ff6-96ad-96dd41cc52bd" />
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/857f16f2-4ae0-4f5a-9cf5-e188f1bcd064" />
 
 *Imatge 11. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
 
-<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/20446b69-82bb-4499-9fe4-8d7273d309c4" />
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/177a7d64-c47d-4f3b-b2f3-bd8c23584606" />
 
 *Imatge 12. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
 
@@ -115,22 +115,28 @@ Ara posaré a dos professors com a important.
 
 *Imatge 14. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
 
+M'he enviat un missatge de prova, per confirmar-ho que funciona. En aquest cas, sí que funciona! 
+
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/7d387a93-5ba2-4c79-90f7-67cc2c77a385" />
+
+*Imatge 15. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+
 # Activar la resposta automàtica
 Ara vull activar la resposta automàtica per no haver d'escriure jo manualment que estil de vacances. He de gaudir al màxim de les vacances. 
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/7a3ff3b0-9208-42d9-bef0-842ec3fc4c88" />
 
-*Imatge 15. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+*Imatge 16. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
 
 Ara des d'un altre compte, enviaré un correu per verificar que tot estigui correcte.  
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/0a355e22-3ab0-444a-a3f4-a3a76fd23754" />
 
-*Imatge 16. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+*Imatge 17. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
 
 Després d'un segons, he ras aquest correu electrònic del meu compte. 
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/988745cf-546c-4d7a-8740-31236010d29b" />
 
-*Imatge 17. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+*Imatge 18. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
 
