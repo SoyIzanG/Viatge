@@ -194,7 +194,7 @@ Ara vull comprovar si realment el que he fet abans, ha servit i em permet contes
 
 *Imatge 25. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
 
-M'he canviat de compte per verificar-ho, i ha sigut un èxit! Adjunto la imatge. 
+He canviat de compte per verificar-ho, i ha sigut un èxit! Adjunto la imatge. 
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/ed240a1c-6025-4ec5-834b-db425a10a048" />
 
