@@ -186,3 +186,17 @@ Les dades tècniques trobades es poden visualitzar a la taula següent.
 | SMTP | smtp.gmail.com | 587 | STARTTLS |
 
 *Font: Rubén Arroyo. Guia G5.2 – Gmail, IMAP i comprovacions.*
+
+# Comprovació de la resposta 
+Ara vull comprovar si realment el que he fet abans, ha servit i em permet contestar correus electrònics. Per això, he contestat el correu amb el meu compte. 
+
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/e8e76596-dbd8-4bdf-aea0-02477c2af742" />
+
+*Imatge 25. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+
+M'he canviat de compte per verificar-ho, i ha sigut un èxit! Adjunto la imatge. 
+
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/ed240a1c-6025-4ec5-834b-db425a10a048" />
+
+*Imatge 26. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+
