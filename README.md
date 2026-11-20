@@ -78,9 +78,9 @@ En aquesta fase, ens encarreguem d'investigar les sis eines de Google.
 **Target:** Negocis, marques i comerciants que volen atraure clients potencials i augmentar les seves vendes.
 
 # Diferència entre IMAP i POP3
-El IMAP és l'opció més còmoda dels casos actuals, els correus es queden descarregats i guardats en el servidor, com a usuari nosaltres els consultem. És ideal en diversos dispositius a la vegada. En canvi, POP3, descarrega directament al teu ordinador, i la borra del servidor. <br>
+L'IMAP permet consultar els correus, que es queden guardats al servidor. És ideal per utilitzar el correu en diversos dispositius a la vegada. En canvi, POP3 descarrega els correus directament a l'ordinador i els pot eliminar del servidor.
 
-La diferència és que un utilitza el servidor i l'altre el teu dispositiu. És millor l'IMAP. 
+La diferència és que IMAP sincronitza els correus entre dispositius, mentre que POP3 els descarrega. L'IMAP és més pràctic si utilitzem diversos dispositius.
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/fa9c595a-dde6-4f19-82eb-ae1b025f0d3b" />
 
