@@ -164,3 +164,10 @@ Després d'un segons, he rebut aquest correu electrònic del meu compte.
 
 *Imatge 23. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
 
+# Comprovar l'accés
+
+He entrat a la configuració de Gmail, a l'apartat de reenviament i POP/IMAP, per comprovar l'accés IMAP. He pogut veure les opcions de configuració de l'IMAP i que el POP3 està desactivat.
+
+A continuació, adjunto una captura de pantalla de la configuració. 
+
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/775ba0ce-91c0-4750-b76f-ddd52c0180ab" />
