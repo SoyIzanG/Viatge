@@ -177,9 +177,11 @@ A continuació, adjunto una captura de pantalla de la configuració.
 
 # Paràmetres dels serveis de correu 
 
-Les dates tècniques trobades es poden visualitzar a la imatge següent.  
+Les dades tècniques trobades es poden visualitzar a la taula següent.  
 
-<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/d9ff4d89-7fc8-483f-af8d-2c40ea26e805" />
+| Servei | Servidor | Port | Seguretat |
+| IMAP | imap.gmail.com | 993 | SSL/TLS |
+| POP3 | pop.gmail.com | 995 | SSL/TLS |
+| SMTP | smtp.gmail.com | 587 | STARTTLS |
 
-*Imatge 25. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
-
+*Informació treta de l'usuari de GitHub Rusben*
