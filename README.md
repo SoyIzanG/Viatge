@@ -85,3 +85,40 @@ La diferència és que un utilitza el servidor i l'altre el teu dispositiu. És 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/fa9c595a-dde6-4f19-82eb-ae1b025f0d3b" />
 
 *Imatge 9. Contabo. (2024, 17 de septiembre). IMAP vs POP3 [Imagen]. Contabo Blog.*
+
+# Crear les etiquetes
+Per continuar, hauré de crear una etiqueta, amb el nom d'institut.  
+
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/794dc817-6c61-4d99-b191-d4d2db1bcf51" />
+
+*Imatge 10. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+
+# Crear els filtres
+
+Després d'haver creat l'etiqueta, hauré de crear cinc filtres. Els quals adjunto a la següent foto. 
+
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/deaf7beb-d6fb-4ff6-96ad-96dd41cc52bd" />
+
+*Imatge 11. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/20446b69-82bb-4499-9fe4-8d7273d309c4" />
+
+*Imatge 12. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+
+Ara posaré a dos professors com a important. 
+
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/8398a322-6e95-4cfe-8d55-6e972ebe9425" />
+
+*Imatge 13. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/c82eaed2-2cb3-402b-866a-f49ef5b0946e" />
+
+*Imatge 14. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+
+# Activar la resposta automàtica
+Ara vull activar la resposta automàtica per no haver d'escriure jo manualment que estil de vacances. He de gaudir al màxim de les vacances. 
+
+<img width="1920" height="1080" alt="imatge" src="https://github.com/user-attachments/assets/7a3ff3b0-9208-42d9-bef0-842ec3fc4c88" />
+
+*Imatge 15. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+
