@@ -171,3 +171,6 @@ He entrat a la configuració de Gmail, a l'apartat de reenviament i POP/IMAP, pe
 A continuació, adjunto una captura de pantalla de la configuració. 
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/775ba0ce-91c0-4750-b76f-ddd52c0180ab" />
+
+*Imatge 24. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+
