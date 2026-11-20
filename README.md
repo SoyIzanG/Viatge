@@ -107,7 +107,7 @@ Després d'haver creat l'etiqueta, hauré de crear els filtres. El quals adjunto
 
 Ara posaré a dos professors com a important. 
 
-<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/8398a322-6e95-4cfe-8d55-6e972ebe9425" />
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/a03125fe-5bd4-4ac2-9ca2-a52c862f8479" />
 
 *Imatge 13. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
 
