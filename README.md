@@ -95,13 +95,13 @@ Per continuar, hauré de crear una etiqueta, amb el nom d'institut.
 
 # Crear els filtres
 
-Després d'haver creat l'etiqueta, hauré de crear els filtres. Els quals adjunto a les següents fotos. 
+<img width="1280" height="800" alt="imatge" src="https://github.com/user-attachments/assets/e8f79bb1-7619-429f-9a9a-dcb638c8faf9" />
 
-<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/857f16f2-4ae0-4f5a-9cf5-e188f1bcd064" />
+*Imatge 11. Leofree. (2025). Add multiple senders to Gmail filter in 1-Click. Chrome Web Store.*
 
-*Imatge 11. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+Després d'haver creat l'etiqueta, hauré de crear els filtres. El quals adjunto la següent foto. 
 
-<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/177a7d64-c47d-4f3b-b2f3-bd8c23584606" />
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/aa906f4d-7606-4fcb-b4a4-b90fb24bec2f" />
 
 *Imatge 12. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
 
