@@ -302,3 +302,11 @@ He enviat una invitació a un altre compte per comprovar el funcionament de les 
 
 *Imatge 35. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
 
+# Llista de tasques
+
+He creat una llista de tasques amb Google Tasks per organitzar les reserves i els preparatius del viatge. A cada tasca li he assignat una data límit.
+
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/4f1b05f1-1fe2-4932-9c3c-43ec45ea3f57" />
+
+*Imatge 36. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
+
