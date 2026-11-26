@@ -228,3 +228,10 @@ He obert el missatge original per comprovar la seguretat del meu propi correu. E
 | 8 | Recepció del correu | Aplica l'etiqueta corresponent | Apartat «Crear els filtres» |
 | 9 | Resposta al correu | Arriba al compte inicial | Imatges 25 i 26 |
 | 10 | Comprovació de seguretat | Comprova SPF, DKIM i DMARC | Imatge 27 |
+
+# Organització del viatge a Itàlia
+
+He escollit Itàlia com a destinació del meu viatge. Aquest viatge tindrà una durada de set dies, del 14 al 20 de juny de 2027.
+
+Visitaré cinc ciutats: Roma, Florència, Pisa, Venècia i Milà. El transport principal serà el tren, però per anar i tornar de Barcelona utilitzaré l'avió.
+El pressupost màxim serà de 1.500 €, incloent-hi el transport, l'allotjament i el menjar.
