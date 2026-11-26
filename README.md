@@ -245,6 +245,15 @@ A continuació, adjunto una captura de pantalla de la ruta del viatge.
 
 **Enllaç de la ruta:** [Google Maps](https://maps.app.goo.gl/3WP7rMyfDkSau3fx5)
 
+# Pressupost del viatge
+
+He utilitzat Google Sheets, per poder calcular la despesa que puc tindre durant el viatge, tenint en compte el pressupost màxim.
+La funció IF em permet comprovar si realment està dins del meu pressupost aquest viatge.   
+
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/91d37e82-8fc0-427d-b54e-eb0d4d5df870" />
+
+*Imatge 29. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
+
 # Compartir el pressupost
 
 He compartit el pressupost del viatge amb el professor, donant-li únicament el permís de lectura.
@@ -252,6 +261,6 @@ La diferència entre compartir amb qualsevol persona que tingui l'enllaç i comp
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/a959cf38-3c09-414f-9198-303398d3cdd3" />
 
-*Imatge 29. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
+*Imatge 30. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
 
 **Enllaç del pressupost:** [Google Sheets](https://docs.google.com/spreadsheets/d/1NtTfzLNkOZSHXcFC5nFVAuToJUaLCzpWX-3-vgqHWF8/edit?usp=sharing)
