@@ -324,6 +324,10 @@ També ho he compartit amb un company.
 
 *Imatge 38. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
 
+# Comprovació dels permisos
+
+He revisat els permisos del pressupost i del calendari per comprovar que només hi poden accedir les persones autoritzades. Aquesta comprovació es pot visualitzar a les imatges 30, 37 i 38.
+
 # Verificació en dos passos
 
 He comprovat que el meu compte de Google té activada la verificació en dos passos. Aquesta funció permet afegir una capa de seguretat addicional al meu compte.
@@ -331,3 +335,18 @@ He comprovat que el meu compte de Google té activada la verificació en dos pas
 <img width="700" height="300" alt="Disseny sense títol" src="https://github.com/user-attachments/assets/fefaf159-e9e9-449a-9608-21fa419d6001" />
 
 *Imatge 39. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
+
+# Llista de proves del calendari
+
+| **Núm.** | **Prova** | **Resultat esperat** | **On es pot comprovar?** |
+|---|---|---|---|
+| 1 | Creació del calendari | El calendari apareix correctament | Imatge 31 |
+| 2 | Esdeveniments del viatge | Apareix un esdeveniment per cada dia | Imatge 32 |
+| 3 | Repetició de l'esmorzar | Es repeteix cada dia | Imatge 33 |
+| 4 | Finalització de la repetició | Finalitza el 20 de juny de 2027 | Imatge 33 |
+| 5 | Notificació | Avisa 30 minuts abans | Imatge 33 |
+| 6 | Invitació | El convidat respon a la invitació | Imatges 34 i 35 |
+| 7 | Llista de tasques | Apareixen les tasques amb les dates límit | Imatge 36 |
+| 8 | Compartir el calendari | El company té accés al calendari | Imatge 38 |
+| 9 | Permisos del calendari | Permet consultar els detalls sense modificar-los | Imatges 37 i 38 |
+| 10 | Ruta del viatge | La ruta torna al punt de sortida | Imatge 28 |
