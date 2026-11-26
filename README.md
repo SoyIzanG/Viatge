@@ -233,5 +233,14 @@ He obert el missatge original per comprovar la seguretat del meu propi correu. E
 
 He escollit Itàlia com a destinació del meu viatge. Aquest viatge tindrà una durada de set dies, del 14 al 20 de juny de 2027.
 
-Visitaré cinc ciutats: Roma, Florència, Pisa, Venècia i Milà. El transport principal serà el tren, però per anar i tornar de Barcelona utilitzaré l'avió.
+Visitaré cinc ciutats: Roma, Florència, Pisa, Venècia i Milà. El transport principal serà el cotxe, tant per anar com per tornar a Barcelona.
+Segons Google Maps, haurem de recórrer un total de 3.307 km, amb una durada aproximada de 35 hores de conducció, sense comptar les parades.
+
 El pressupost màxim serà de 1.500 €, incloent-hi el transport, l'allotjament i el menjar.
+A continuació, adjunto una captura de pantalla de la ruta del viatge.
+
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/6c7a6c69-6bf3-4ffe-b21c-0229cc32ad22" />
+
+*Imatge 28. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
+
+**Enllaç de la ruta:** [Google Maps](https://maps.app.goo.gl/3WP7rMyfDkSau3fx5)
