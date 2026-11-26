@@ -318,3 +318,10 @@ He compartit el calendari del viatge amb un altre compte, donant-li el permís p
 
 *Imatge 37. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
 
+També ho he compartit amb un company. 
+
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/234b7942-015f-4290-a86b-f049f0dad9ea" />
+
+*Imatge 38. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
+
+
