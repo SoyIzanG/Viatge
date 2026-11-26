@@ -252,4 +252,6 @@ La diferència entre compartir amb qualsevol persona que tingui l'enllaç i comp
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/a959cf38-3c09-414f-9198-303398d3cdd3" />
 
+*Imatge 29. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
+
 **Enllaç del pressupost:** [Google Sheets](https://docs.google.com/spreadsheets/d/1NtTfzLNkOZSHXcFC5nFVAuToJUaLCzpWX-3-vgqHWF8/edit?usp=sharing)
