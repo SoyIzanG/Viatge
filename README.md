@@ -272,3 +272,12 @@ Ara hauré de crear un calendari amb Google Calendar, per poder organitzar totes
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/ae02eb76-99dc-4920-ab71-59bacfff5074" />
 
 *Imatge 31. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
+
+# Organització dels esdeveniments
+
+He creat un esdeveniment per cada dia del viatge, indicant la ubicació i les activitats que faré durant els set dies. 
+
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/f4822427-02ea-4b9c-b3c1-8894177a85b3" />
+
+*Imatge 32. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
+
