@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Disseny sense títol" src="https://github.com/user-attachments/assets/8d9552f0-5c84-4f35-bd45-deb654eeeaf7" /># Pràctica final de tema
+# Pràctica final de tema
 
 Durant aquesta pràctica, treballarem en quatre fases, per poder-ne organitzar un viatge, utilitzen **les eines de Google.**  
 
