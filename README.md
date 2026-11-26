@@ -1,4 +1,4 @@
-# Pràctica final de tema
+<img width="1920" height="1080" alt="Disseny sense títol" src="https://github.com/user-attachments/assets/8d9552f0-5c84-4f35-bd45-deb654eeeaf7" /># Pràctica final de tema
 
 Durant aquesta pràctica, treballarem en quatre fases, per poder-ne organitzar un viatge, utilitzen **les eines de Google.**  
 
@@ -324,4 +324,10 @@ També ho he compartit amb un company.
 
 *Imatge 38. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
 
+# Verificació en dos passos
 
+He comprovat que el meu compte de Google té activada la verificació en dos passos. Aquesta funció permet afegir una capa de seguretat addicional al meu compte.
+
+<img width="700" height="300" alt="Disseny sense títol" src="https://github.com/user-attachments/assets/fefaf159-e9e9-449a-9608-21fa419d6001" />
+
+*Imatge 39. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
