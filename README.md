@@ -290,3 +290,15 @@ També he activat una notificació 30 minuts abans de l'esdeveniment.
 
 *Imatge 33. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
 
+# Convidar una persona a un esdeveniment
+
+He enviat una invitació a un altre compte per comprovar el funcionament de les invitacions de Google Calendar. Després, he acceptat la invitació i he comprovat que apareix correctament al calendari.
+
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/78e05d6c-f36c-4e55-a47c-70b1e9558e99" />
+
+*Imatge 34. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
+
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/6151f5d8-72db-4ea2-8415-075f0045f4d2" />
+
+*Imatge 35. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
+
