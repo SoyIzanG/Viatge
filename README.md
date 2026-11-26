@@ -310,3 +310,11 @@ He creat una llista de tasques amb Google Tasks per organitzar les reserves i el
 
 *Imatge 36. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
 
+# Compartir el calendari
+
+He compartit el calendari del viatge amb un altre compte, donant-li el permís per consultar tots els detalls dels esdeveniments, però sense poder modificar-los.
+
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/4de5bd2b-32f3-4af7-a97c-46b4911bacfe" />
+
+*Imatge 37. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
+
