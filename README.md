@@ -200,3 +200,14 @@ He canviat de compte per verificar-ho, i ha sigut un èxit! Adjunto la imatge.
 
 *Imatge 26. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
 
+# Comprovació de SPF, DKIM i DMARC
+
+He obert el missatge original per comprovar la seguretat del meu propi correu. En aquest cas, abans he investigat la finalitat de cada cosa. 
+
+- SPF: Comprova el servidor si està autoritzat a enviar correus. 
+- DKIM: Comprova que la signatura del correu continua estant vàlida. 
+- DMARC: Ajuda a evitar la suplantació d'identitat. 
+
+**En el meu cas, SPF i DKIM han superat aquesta comprovació, però DMARC per qualsevol raó, no.**
+
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/1da57be4-92b0-4081-9bc6-3c6341ba649d" />
