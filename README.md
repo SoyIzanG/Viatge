@@ -281,3 +281,12 @@ He creat un esdeveniment per cada dia del viatge, indicant la ubicació i les ac
 
 *Imatge 32. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
 
+# Repetició dels esdeveniments i notificacions 
+
+He creat un esdeveniment que es repeteix cada dia durant el viatge, del 14 al 20 de juny de 2027. En aquest cas, he escollit l'esmorzar.
+També he activat una notificació 30 minuts abans de l'esdeveniment. 
+
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/efb5798f-fd29-4f14-856c-54db2fe46264" />
+
+*Imatge 33. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
+
