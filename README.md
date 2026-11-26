@@ -350,3 +350,16 @@ He comprovat que el meu compte de Google té activada la verificació en dos pas
 | 8 | Compartir el calendari | El company té accés al calendari | Imatge 38 |
 | 9 | Permisos del calendari | Permet consultar els detalls sense modificar-los | Imatges 37 i 38 |
 | 10 | Ruta del viatge | La ruta torna al punt de sortida | Imatge 28 |
+
+# Escape Room
+
+Per pujar la nota de la pràctica, he creat una Escape Room amb Google Sheets, relacionada amb el viatge a Itàlia.
+
+Aquesta activitat consta de cinc proves que s'han de superar. He utilitzat la funció IF per comprovar si les respostes són correctes o incorrectes.
+Una vegada superades totes les proves, apareixerà automàticament el missatge **«HAS GUANYAT!»**.
+
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/e50fda5c-9737-4d89-95dc-ae607e276c48" />
+
+*Imatge 40. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
+
+**Enllaç de l'Escape Room:** [Google Sheets](https://docs.google.com/spreadsheets/d/1bUj0hYnn1nROUKjuqupk_PGEnOHQO97ulO1yJXEcHgs/edit?usp=sharing)
