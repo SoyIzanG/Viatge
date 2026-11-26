@@ -211,3 +211,20 @@ He obert el missatge original per comprovar la seguretat del meu propi correu. E
 **En el meu cas, SPF i DKIM han superat aquesta comprovació, però DMARC per qualsevol raó, no.**
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/1da57be4-92b0-4081-9bc6-3c6341ba649d" />
+
+*Imatge 27. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
+
+# Llista de proves del correu electrònic
+
+| **Núm.** | **Prova** | **Resultat esperat** | **On es pot comprovar?** |
+|---|---|---|---|
+| 1 | Etiqueta Institut | Apareix en color verd | Imatge 10 |
+| 2 | Filtre «puig» | Aplica l'etiqueta Institut | Imatge 12 |
+| 3 | Filtre «publicitat» | Arxiva el correu i canvia la categoria | Imatge 16 |
+| 4 | Filtre del primer professor | Marca el correu com a important | Imatges 13 i 15 |
+| 5 | Filtre del segon professor | Marca el correu com a important | Imatges 14 i 15 |
+| 6 | Resposta automàtica | Envia el missatge de vacances | Imatges 21, 22 i 23 |
+| 7 | Enviament de correu | Arriba a l'altre compte | Imatge 22 |
+| 8 | Recepció del correu | Aplica l'etiqueta corresponent | Apartat «Crear els filtres» |
+| 9 | Resposta al correu | Arriba al compte inicial | Imatges 25 i 26 |
+| 10 | Comprovació de seguretat | Comprova SPF, DKIM i DMARC | Imatge 27 |
