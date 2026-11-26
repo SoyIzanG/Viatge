@@ -264,3 +264,11 @@ La diferència entre compartir amb qualsevol persona que tingui l'enllaç i comp
 *Imatge 30. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
 
 **Enllaç del pressupost:** [Google Sheets](https://docs.google.com/spreadsheets/d/1NtTfzLNkOZSHXcFC5nFVAuToJUaLCzpWX-3-vgqHWF8/edit?usp=sharing)
+
+# Creació del calendari
+
+Ara hauré de crear un calendari amb Google Calendar, per poder organitzar totes les activitats que faré durant els set dies del viatge a Itàlia.
+
+<img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/ae02eb76-99dc-4920-ab71-59bacfff5074" />
+
+*Imatge 31. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
