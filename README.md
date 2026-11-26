@@ -247,7 +247,7 @@ A continuació, adjunto una captura de pantalla de la ruta del viatge.
 
 # Pressupost del viatge
 
-He utilitzat Google Sheets, per poder calcular la despesa que puc tindre durant el viatge, tenint en compte el pressupost màxim.
+He utilitzat Google Sheets, per poder calcular la despesa que puc tindre durant el viatge, tenint en compte el pressupost màxim.<br>
 La funció IF em permet comprovar si realment està dins del meu pressupost aquest viatge.   
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/91d37e82-8fc0-427d-b54e-eb0d4d5df870" />
