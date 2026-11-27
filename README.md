@@ -4,7 +4,7 @@ Durant aquesta pràctica, treballarem en quatre fases, per poder-ne organitzar u
 
 <img width="500" height="418" alt="imatge" src="https://github.com/user-attachments/assets/5bfb5e56-d353-4e03-91bb-0043b48554d7" />
 
-*Imatge 1. Text Educació. (2019). Fem-ho per projectes [Illustration]. Blog de Text.*
+*Imatge 1. Text Educació. (2019). Fem-ho per projectes [Il·lustració]. Blog de Text.*
 
 # Competències adquirides en aquesta pràctica 
 
@@ -12,7 +12,7 @@ En finalitzar aquesta pràctica, tindrem assolides les següents competències.
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/023134d7-3500-4d6b-9b55-a2627aeab5a1" />
 
-*Imatge 2. Elaboración propia (Izan Gómez, 13 de noviembre de 2026).*
+*Imatge 2. Elaboració pròpia (Izan Gómez, 13 de novembre de 2026).*
 
 # Eines de Google
 
@@ -23,7 +23,7 @@ En aquesta fase, ens encarreguem d'investigar les sis eines de Google.
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/cc5b75aa-da71-4d0e-96c8-2656ba0b84e1" />
 
-*Imatge 3. Google LLC. (s. f.). Logotipo de Google Docs [Imagen].*
+*Imatge 3. Google LLC. (s. f.). Logotip de Google Docs [Imatge].*
 
 **Propòsit:** Ens permet crear, editar i compartir documents de Google, en una interfície bastant senzilla al navegador. <br>
 **Target:** Facilita ajuda als estudiants, equips de treball, treballadors, empreses, per poder-ne redactar i compatir el document.  
@@ -33,7 +33,7 @@ En aquesta fase, ens encarreguem d'investigar les sis eines de Google.
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/406d5b59-e2b8-4ed4-b6eb-7ffcad45aaa9" />
 
-*Imatge 4. Google LLC. (s. f.). Logotipo de Google Drive [Imagen].*
+*Imatge 4. Google LLC. (s. f.). Logotip de Google Drive [Imatge].*
 
 **Propòsit:** Ofereix emmagatzematge al núvol per guardar, organitzar i compartir arxius i carpetes de qualsevol mena. <br>
 **Target:** Usuaris particulars i empreses que volen mantenir els seus fitxers segurs i accessibles des de qualsevol dispositiu.
@@ -43,7 +43,7 @@ En aquesta fase, ens encarreguem d'investigar les sis eines de Google.
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/31fc83d3-a0a6-49ba-b8ac-cb0f172d0219" />
 
-*Imatge 5. Google LLC. (s. f.). Logotipo de Google Calendar [Imagen].*
+*Imatge 5. Google LLC. (s. f.). Logotip de Google Calendar [Imatge].*
 
 **Propòsit:** Serveix per planificar l'agenda, programar esdeveniments, crear recordatoris i convidar altres persones a reunions. <br>
 **Target:** Qualsevol persona o equip que necessiti gestionar el seu temps i organitzar la seva jornada diària.
@@ -53,7 +53,7 @@ En aquesta fase, ens encarreguem d'investigar les sis eines de Google.
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/184a047d-e9a0-4de5-a7cc-647171933da7" />
 
-*Imatge 6. Google LLC. (s. f.). Logotipo de Google Meet [Imagen].*
+*Imatge 6. Google LLC. (s. f.). Logotip de Google Meet [Imatge].*
 
 **Propòsit:** Permet fer videotrucades i videoconferències en línia de manera senzilla i amb opcions de compartir pantalla. <br>
 **Target:** Empreses, centres educatius i grups que requereixen comunicació remota.
@@ -63,7 +63,7 @@ En aquesta fase, ens encarreguem d'investigar les sis eines de Google.
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/93e53a4f-ef5f-451a-95b5-de88163d043e" />
 
-*Imatge 7. Google LLC. (s. f.). Logotipo de Google Analytics [Imagen].*
+*Imatge 7. Google LLC. (s. f.). Logotip de Google Analytics [Imatge].*
 
 **Propòsit:** Analitza i mesura el trànsit, les mètriques d'ús i el comportament dels visitants en un lloc web o aplicació. <br>
 **Target:** Dissenyadors web, gestors de continguts, especialistes en màrqueting digital i negocis online.
@@ -73,7 +73,7 @@ En aquesta fase, ens encarreguem d'investigar les sis eines de Google.
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/cbb32da1-89e7-4d7f-8f7d-beb42fc12ef8" />
 
-*Imatge 8. Google LLC. (s. f.). Logotipo de Google Ads [Imagen].*
+*Imatge 8. Google LLC. (s. f.). Logotip de Google Ads [Imatge].*
 
 **Propòsit:** Plataforma per crear i gestionar campanyes de publicitat de pagament que apareixen als resultats de cerca i a la xarxa de Google. <br>
 **Target:** Negocis, marques i comerciants que volen atraure clients potencials i augmentar les seves vendes.
@@ -85,85 +85,85 @@ La diferència és que IMAP sincronitza els correus entre dispositius, mentre qu
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/fa9c595a-dde6-4f19-82eb-ae1b025f0d3b" />
 
-*Imatge 9. Contabo. (2024, 17 de septiembre). IMAP vs POP3 [Imagen]. Contabo Blog.*
+*Imatge 9. Contabo. (2024, 17 de setembre). IMAP vs POP3 [Imatge]. Contabo Blog.*
 
 # Crear les etiquetes
 Per continuar, hauré de crear una etiqueta, amb el nom d'institut.  
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/794dc817-6c61-4d99-b191-d4d2db1bcf51" />
 
-*Imatge 10. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+*Imatge 10. Elaboració pròpia (Izan Gómez, 20 de novembre de 2026).*
 
 # Crear els filtres
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/e8f79bb1-7619-429f-9a9a-dcb638c8faf9" />
 
-*Imatge 11. Leofree. (2025). Add multiple senders to Gmail filter in 1-Click. Chrome Web Store.*
+*Imatge 11. Leofree. (2025). Afegeix diversos remitents al filtre de Gmail amb un sol clic. Chrome Web Store.*
 
 Després d'haver creat l'etiqueta, hauré de crear els filtres. El quals adjunto la següent foto. 
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/aa906f4d-7606-4fcb-b4a4-b90fb24bec2f" />
 
-*Imatge 12. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+*Imatge 12. Elaboració pròpia (Izan Gómez, 20 de novembre de 2026).*
 
 Ara posaré a dos professors com a important. 
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/a03125fe-5bd4-4ac2-9ca2-a52c862f8479" />
 
-*Imatge 13. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+*Imatge 13. Elaboració pròpia (Izan Gómez, 20 de novembre de 2026).*
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/c82eaed2-2cb3-402b-866a-f49ef5b0946e" />
 
-*Imatge 14. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+*Imatge 14. Elaboració pròpia (Izan Gómez, 20 de novembre de 2026).*
 
 M'he enviat un missatge de prova, per confirmar-ho que funciona. En aquest cas, sí que funciona! 
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/7d387a93-5ba2-4c79-90f7-67cc2c77a385" />
 
-*Imatge 15. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+*Imatge 15. Elaboració pròpia (Izan Gómez, 20 de novembre de 2026).*
 
 Ara si envio un correu amb la paraula "publicitat", directament s'arxiva i es canvia de categoria. 
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/2209eec9-8ef8-41c0-bd2c-bee26e3c9eee" />
 
-*Imatge 16. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+*Imatge 16. Elaboració pròpia (Izan Gómez, 20 de novembre de 2026).*
 
 Ara activaré tres filtres més, per tindre una millor organització. 
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/2ae67ae6-7db1-44cf-947c-57b74087871e" />
 
-*Imatge 17. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+*Imatge 17. Elaboració pròpia (Izan Gómez, 20 de novembre de 2026).*
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/76fa573f-9d1b-44e3-a98a-8020727a2423" />
 
-*Imatge 18. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+*Imatge 18. Elaboració pròpia (Izan Gómez, 20 de novembre de 2026).*
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/865b28c9-e775-4c82-b499-6fc64bfefd48" />
 
-*Imatge 19. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+*Imatge 19. Elaboració pròpia (Izan Gómez, 20 de novembre de 2026).*
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/7b9e96a1-557a-482e-8535-a8416f4e1ce9" />
 
-*Imatge 20. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+*Imatge 20. Elaboració pròpia (Izan Gómez, 20 de novembre de 2026).*
 
 # Activar la resposta automàtica
 Ara vull activar la resposta automàtica per no haver d'escriure jo manualment que estil de vacances. He de gaudir al màxim de les vacances. 
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/7a3ff3b0-9208-42d9-bef0-842ec3fc4c88" />
 
-*Imatge 21. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+*Imatge 21. Elaboració pròpia (Izan Gómez, 20 de novembre de 2026).*
 
 Ara des d'un altre compte, enviaré un correu per verificar que tot estigui correcte.  
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/0a355e22-3ab0-444a-a3f4-a3a76fd23754" />
 
-*Imatge 22. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+*Imatge 22. Elaboració pròpia (Izan Gómez, 20 de novembre de 2026).*
 
 Després d'un segons, he rebut aquest correu electrònic del meu compte. 
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/988745cf-546c-4d7a-8740-31236010d29b" />
 
-*Imatge 23. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+*Imatge 23. Elaboració pròpia (Izan Gómez, 20 de novembre de 2026).*
 
 # Comprovar l'accés
 
@@ -173,7 +173,7 @@ A continuació, adjunto una captura de pantalla de la configuració.
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/775ba0ce-91c0-4750-b76f-ddd52c0180ab" />
 
-*Imatge 24. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+*Imatge 24. Elaboració pròpia (Izan Gómez, 20 de novembre de 2026).*
 
 # Paràmetres dels serveis de correu 
 
@@ -192,13 +192,13 @@ Ara vull comprovar si realment el que he fet abans, ha servit i em permet contes
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/e8e76596-dbd8-4bdf-aea0-02477c2af742" />
 
-*Imatge 25. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+*Imatge 25. Elaboració pròpia (Izan Gómez, 20 de novembre de 2026).*
 
 He canviat de compte per verificar-ho, i ha sigut un èxit! Adjunto la imatge. 
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/ed240a1c-6025-4ec5-834b-db425a10a048" />
 
-*Imatge 26. Elaboración propia (Izan Gómez, 20 de noviembre de 2026).*
+*Imatge 26. Elaboració pròpia (Izan Gómez, 20 de novembre de 2026).*
 
 # Comprovació de SPF, DKIM i DMARC
 
@@ -212,7 +212,7 @@ He obert el missatge original per comprovar la seguretat del meu propi correu. E
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/1da57be4-92b0-4081-9bc6-3c6341ba649d" />
 
-*Imatge 27. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
+*Imatge 27. Elaboració pròpia (Izan Gómez, 26 de novembre de 2026).*
 
 # Llista de proves del correu electrònic
 
@@ -241,7 +241,7 @@ A continuació, adjunto una captura de pantalla de la ruta del viatge.
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/6c7a6c69-6bf3-4ffe-b21c-0229cc32ad22" />
 
-*Imatge 28. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
+*Imatge 28. Elaboració pròpia (Izan Gómez, 26 de novembre de 2026).*
 
 **Enllaç de la ruta:** [Google Maps](https://maps.app.goo.gl/3WP7rMyfDkSau3fx5)
 
@@ -252,7 +252,7 @@ La funció IF em permet comprovar si realment està dins del meu pressupost aque
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/91d37e82-8fc0-427d-b54e-eb0d4d5df870" />
 
-*Imatge 29. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
+*Imatge 29. Elaboració pròpia (Izan Gómez, 26 de novembre de 2026).*
 
 # Compartir el pressupost
 
@@ -261,7 +261,7 @@ La diferència entre compartir amb qualsevol persona que tingui l'enllaç i comp
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/a959cf38-3c09-414f-9198-303398d3cdd3" />
 
-*Imatge 30. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
+*Imatge 30. Elaboració pròpia (Izan Gómez, 26 de novembre de 2026).*
 
 **Enllaç del pressupost:** [Google Sheets](https://docs.google.com/spreadsheets/d/1NtTfzLNkOZSHXcFC5nFVAuToJUaLCzpWX-3-vgqHWF8/edit?usp=sharing)
 
@@ -271,7 +271,7 @@ Ara hauré de crear un calendari amb Google Calendar, per poder organitzar totes
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/ae02eb76-99dc-4920-ab71-59bacfff5074" />
 
-*Imatge 31. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
+*Imatge 31. Elaboració pròpia (Izan Gómez, 26 de novembre de 2026).*
 
 # Organització dels esdeveniments
 
@@ -279,7 +279,7 @@ He creat un esdeveniment per cada dia del viatge, indicant la ubicació i les ac
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/f4822427-02ea-4b9c-b3c1-8894177a85b3" />
 
-*Imatge 32. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
+*Imatge 32. Elaboració pròpia (Izan Gómez, 26 de novembre de 2026).*
 
 # Repetició dels esdeveniments i notificacions 
 
@@ -288,7 +288,7 @@ També he activat una notificació 30 minuts abans de l'esdeveniment.
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/efb5798f-fd29-4f14-856c-54db2fe46264" />
 
-*Imatge 33. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
+*Imatge 33. Elaboració pròpia (Izan Gómez, 26 de novembre de 2026).*
 
 # Convidar una persona a un esdeveniment
 
@@ -296,11 +296,11 @@ He enviat una invitació a un altre compte per comprovar el funcionament de les 
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/78e05d6c-f36c-4e55-a47c-70b1e9558e99" />
 
-*Imatge 34. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
+*Imatge 34. Elaboració pròpia (Izan Gómez, 26 de novembre de 2026).*
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/6151f5d8-72db-4ea2-8415-075f0045f4d2" />
 
-*Imatge 35. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
+*Imatge 35. Elaboració pròpia (Izan Gómez, 26 de novembre de 2026).*
 
 # Llista de tasques
 
@@ -308,7 +308,7 @@ He creat una llista de tasques amb Google Tasks per organitzar les reserves i el
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/4f1b05f1-1fe2-4932-9c3c-43ec45ea3f57" />
 
-*Imatge 36. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
+*Imatge 36. Elaboració pròpia (Izan Gómez, 26 de novembre de 2026).*
 
 # Compartir el calendari
 
@@ -316,13 +316,13 @@ He compartit el calendari del viatge amb un altre compte, donant-li el permís p
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/4de5bd2b-32f3-4af7-a97c-46b4911bacfe" />
 
-*Imatge 37. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
+*Imatge 37. Elaboració pròpia (Izan Gómez, 26 de novembre de 2026).*
 
 També ho he compartit amb un company. 
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/234b7942-015f-4290-a86b-f049f0dad9ea" />
 
-*Imatge 38. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
+*Imatge 38. Elaboració pròpia (Izan Gómez, 26 de novembre de 2026).*
 
 # Comprovació dels permisos
 
@@ -334,7 +334,7 @@ He comprovat que el meu compte de Google té activada la verificació en dos pas
 
 <img width="700" height="300" alt="Disseny sense títol" src="https://github.com/user-attachments/assets/fefaf159-e9e9-449a-9608-21fa419d6001" />
 
-*Imatge 39. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
+*Imatge 39. Elaboració pròpia (Izan Gómez, 26 de novembre de 2026).*
 
 # Llista de proves del calendari
 
@@ -360,6 +360,6 @@ Una vegada superades totes les proves, apareixerà automàticament el missatge *
 
 <img width="700" height="300" alt="imatge" src="https://github.com/user-attachments/assets/e50fda5c-9737-4d89-95dc-ae607e276c48" />
 
-*Imatge 40. Elaboración propia (Izan Gómez, 26 de noviembre de 2026).*
+*Imatge 40. Elaboració pròpia (Izan Gómez, 26 de novembre de 2026).*
 
 **Enllaç de l'Escape Room:** [Google Sheets](https://docs.google.com/spreadsheets/d/1bUj0hYnn1nROUKjuqupk_PGEnOHQO97ulO1yJXEcHgs/edit?usp=sharing)
