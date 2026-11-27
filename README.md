@@ -363,3 +363,10 @@ Una vegada superades totes les proves, apareixerà automàticament el missatge *
 *Imatge 40. Elaboració pròpia (Izan Gómez, 26 de novembre de 2026).*
 
 **Enllaç de l'Escape Room:** [Google Sheets](https://docs.google.com/spreadsheets/d/1bUj0hYnn1nROUKjuqupk_PGEnOHQO97ulO1yJXEcHgs/edit?usp=sharing)
+
+# Itinerari en HTML
+
+Per pujar la nota de la pràctica, he creat una pàgina web, amb l'itinerari del viatge a Itàlia, amb el suport parcial d'eines d'intel·ligència artificial.
+Inclou el pressupost, les imatges, les animacions i un vídeo animat del recorregut.
+
+**[Consultar l'itinerari del viatge](https://soyizang.github.io/Viatge/itinerari.html)**
